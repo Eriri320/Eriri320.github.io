@@ -3,16 +3,16 @@ prefixName: 日羡的
 siteName: 小屋
 # favicon and site master avatar
 favicon: /images/favicon.ico
-avatar: //raw.githubusercontent.com/Eriri320/image-host/main/public/7b8be267-1151-46b4-a897-397ef00410d9.png
+avatar: //cdn.jsdelivr.net/gh/Eriri320/image-host@main/public/7b8be267-1151-46b4-a897-397ef00410d9.png
 url: https://eriri320.github.io
 description: 意志萌生希望，希望孕育梦想，梦想改变世界
-cdn: https://cdn.jsdmirror.com/gh/honjun/cdn@1.6
+cdn: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6
 pjax: 1
 # 1开启
 mathjax: 0
 
 notice: 欢迎来到我的博客!
-lazyloadImg: https://cdn.jsdmirror.com/gh/honjun/cdn@1.6/img/loader/orange.progress-bar-stripe-loader.svg
+lazyloadImg: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/loader/orange.progress-bar-stripe-loader.svg
 
 menus:
   首页: { path: /, fa: fa-fort-awesome faa-shake }
